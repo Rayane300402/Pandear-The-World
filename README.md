@@ -3,3 +3,4 @@ It's basically a Website using Bootstrap and HTML + CSS and mild Sass to showcas
 
 
 NOTE: The node-modules files aren't in the repo.
+NOTE: NOT YET COMPLETE
